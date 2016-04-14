@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.cecivg.periodosdeldia.TablaPeriodosActivity"
+    tools:showIn="@layout/activity_tabla_periodos">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button_language"
+            android:text="@string/button_change_language"
+            style="@style/button"
+            android:onClick="changeLanguage"
+            />
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Period_table">
+            <!-- Table Header -->
+            <TableRow android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView android:text="00:00\n03:25"
+                    style="@style/hourStyle" />
+                <TextView android:text="03:25\n06:15"
+                    style="@style/hourStyle" />
+                <TextView android:text="06:15\n10:17"
+                    style="@style/hourStyle" />
+                <TextView android:text="10:17\n13:42"
+                    style="@style/hourStyle" />
+                <TextView android:text="13:42\n17:08"
+                    style="@style/hourStyle" />
+                <TextView android:text="17:08\n20:34"
+                    style="@style/hourStyle" />
+                <TextView android:text="20:34\n24:00"
+                    style="@style/hourStyle" />
+            </TableRow>
+            <!--Table Content -->
+            <TableRow android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView android:text="@string/day_sunday"
+                    style="@style/dayStyle"
+                    />
+                <TextView android:text="G"
+                    style="@style/cellStyle"
+                    android:onClick="onClickG"/>
+                <TextView android:text="A"
+                    style="@style/cellStyle"
+                    android:onClick="onClickA"/>
+                <TextView android:text="B"
+                    style="@style/cellStyle"
+                    android:onClick="onClickB" />
+                <TextView android:text="C"
+                    style="@style/cellStyle"
+                    android:onClick="onClickC" />
+                <TextView android:text="D"
+                    style="@style/cellStyle"
+                    android:onClick="onClickD" />
+                <TextView android:text="E"
+                    style="@style/cellStyle"
+                    android:onClick="onClickE"/>
+                <TextView android:text="F"
+                    style="@style/cellStyle"
+                    android:onClick="onClickF" />
+            </TableRow>
+            <TableRow android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView android:text="@string/day_monday"
+                    style="@style/dayStyle"
+                    />
+                <TextView android:text="C"
+                    style="@style/cellStyle"
+                    android:onClick="onClickC"/>
+                <TextView android:text="D"
+                    style="@style/cellStyle"
+                    android:onClick="onClickD" />
+                <TextView android:text="E"
+                    style="@style/cellStyle"
+                    android:onClick="onClickE" />
+                <TextView android:text="F"
+                    style="@style/cellStyle"
+                    android:onClick="onClickF"/>
+                <TextView android:text="G"
+                    style="@style/cellStyle"
+                    android:onClick="onClickG" />
+                <TextView android:text="A"
+                    style="@style/cellStyle"
+                    android:onClick="onClickA"/>
+                <TextView android:text="B"
+                    style="@style/cellStyle"
+                    android:onClick="onClickB" />
+            </TableRow>
+            <TableRow android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView android:text="@string/day_tuesday"
+                    style="@style/dayStyle"
+                    />
+                <TextView android:text="F"
+                    style="@style/cellStyle"
+                    android:onClick="onClickF" />
+                <TextView android:text="G"
+                    style="@style/cellStyle"
+                    android:onClick="onClickG" />
+                <TextView android:text="A"
+                    style="@style/cellStyle"
+                    android:onClick="onClickA"/>
+                <TextView android:text="B"
+                    style="@style/cellStyle"
+                    android:onClick="onClickB" />
+                <TextView android:text="C"
+                    style="@style/cellStyle"
+                    android:onClick="onClickC"/>
+                <TextView android:text="D"
+                    style="@style/cellStyle"
+                    android:onClick="onClickD" />
+                <TextView android:text="E"
+                    style="@style/cellStyle"
+                    android:onClick="onClickE"/>
+            </TableRow>
+            <TableRow android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView android:text="@string/day_wednesday"
+                    style="@style/dayStyle"
+                    />
+                <TextView android:text="B"
+                    style="@style/cellStyle"
+                    android:onClick="onClickB" />
+                <TextView android:text="C"
+                    style="@style/cellStyle"
+                    android:onClick="onClickC" />
+                <TextView android:text="D"
+                    style="@style/cellStyle"
+                    android:onClick="onClickD"/>
+                <TextView android:text="E"
+                    style="@style/cellStyle"
+                    android:onClick="onClickE" />
+                <TextView android:text="F"
+                    style="@style/cellStyle"
+                    android:onClick="onClickF" />
+                <TextView android:text="G"
+                    style="@style/cellStyle"
+                    android:onClick="onClickG"/>
+                <TextView android:text="A"
+                    style="@style/cellStyle"
+                    android:onClick="onClickA" />
+            </TableRow>
+            <TableRow android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView android:text="@string/day_thursday"
+                    style="@style/dayStyle"
+                    />
+                <TextView android:text="E"
+                    style="@style/cellStyle"
+                    android:onClick="onClickE" />
+                <TextView android:text="F"
+                    style="@style/cellStyle"
+                    android:onClick="onClickF" />
+                <TextView android:text="G"
+                    style="@style/cellStyle"
+                    android:onClick="onClickG" />
+                <TextView android:text="A"
+                    style="@style/cellStyle"
+                    android:onClick="onClickA" />
+                <TextView android:text="B"
+                    style="@style/cellStyle"
+                    android:onClick="onClickB" />
+                <TextView android:text="C"
+                    style="@style/cellStyle"
+                    android:onClick="onClickC" />
+                <TextView android:text="D"
+                    style="@style/cellStyle"
+                    android:onClick="onClickD"/>
+            </TableRow>
+            <TableRow android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView android:text="@string/day_friday"
+                    style="@style/dayStyle"/>
+                <TextView android:text="A"
+                    style="@style/cellStyle"
+                    android:onClick="onClickA" />
+                <TextView android:text="B"
+                    style="@style/cellStyle"
+                    android:onClick="onClickB" />
+                <TextView android:text="C"
+                    style="@style/cellStyle"
+                    android:onClick="onClickC" />
+                <TextView android:text="D"
+                    style="@style/cellStyle"
+                    android:onClick="onClickD" />
+                <TextView android:text="E"
+                    style="@style/cellStyle"
+                    android:onClick="onClickE"/>
+                <TextView android:text="F"
+                    style="@style/cellStyle"
+                    android:onClick="onClickF" />
+                <TextView android:text="G"
+                    style="@style/cellStyle"
+                    android:onClick="onClickG" />
+            </TableRow>
+            <TableRow android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView android:text="@string/day_saturday"
+                    style="@style/dayStyle" />
+                <TextView android:text="D"
+                    style="@style/cellStyle"
+                    android:onClick="onClickD" />
+                <TextView android:text="E"
+                    style="@style/cellStyle"
+                    android:onClick="onClickE" />
+                <TextView android:text="F"
+                    style="@style/cellStyle"
+                    android:onClick="onClickF" />
+                <TextView android:text="G"
+                    style="@style/cellStyle"
+                    android:onClick="onClickG" />
+                <TextView android:text="A"
+                    style="@style/cellStyle"
+                    android:onClick="onClickA" />
+                <TextView android:text="B"
+                    style="@style/cellStyle"
+                    android:onClick="onClickB" />
+                <TextView android:text="C"
+                    style="@style/cellStyle"
+                    android:onClick="onClickC" />
+            </TableRow>
+
+        </TableLayout>
+
+        <TextView
+            style="@style/titleDescStyle"
+            android:id="@+id/Period_title_view"/>
+
+        <TextView
+            style="@style/favDescStyle"
+            android:id="@+id/Period_fav_view"
+            android:text="@string/good_for_title"
+            android:longClickable="true"
+            android:textIsSelectable="false"
+            />
+
+        <TextView
+            style="@style/descriptionStyle"
+            android:id="@+id/Period_fav_detail_view"/>
+
+        <TextView
+            style="@style/nofavDescStyle"
+            android:id="@+id/Period_nofav_view"
+            android:text="@string/not_good_for_title"/>
+
+        <TextView
+            style="@style/descriptionStyle"
+            android:id="@+id/Period_nofav_detail_view"/>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
