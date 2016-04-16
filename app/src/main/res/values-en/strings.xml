@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Day Periods</string>
+    <string name="button_change_language">Spanish</string>
+
+    <string name="day_monday">Monday</string>
+    <string name="day_tuesday">Tuesday</string>
+    <string name="day_wednesday">Wednesday</string>
+    <string name="day_thursday">Thursday</string>
+    <string name="day_friday">Friday</string>
+    <string name="day_saturday">Saturday</string>
+    <string name="day_sunday">Sunday</string>
+
+    <string name="good_for_title">Good for:</string>
+    <string name="not_good_for_title">Not good for:</string>
+
+    <string name="A_period_title">A PERIOD</string>
+    <string name="A_period_fav_detail">
+        "Concentration and solving last details of important plans."
+        " Asking favors to people in high positions."
+        " Obtaining legal moratoriums, recommendations and endorsements."
+        " Dealing with public employees."
+        " Signing wills, deeds or transfers."
+        " Writing letter asking favours and promotions."
+    </string>
+    <string name="A_period_nofav_detail">
+        "Dealing with disreputable people."
+        " Too much impulsivity can be dangerous."
+        " Making a new businesses."
+        " Acquisition of livestock."
+        " Signing of treaties or agreements."
+        " Money loans."
+        " Moving to another city (home or business)."
+        " Making the first financial investment for a new business."
+        " Buying, renting or selling real estate."
+    </string>
+
+    <string name="B_period_title">B PERIOD</string>
+    <string name="B_period_fav_detail">
+    "Matters related to art, music, house decoration and personal appearance."
+        " Any material matter."
+        " Starting a new business."
+        " Buying livestock, debt collecting and treaties with companies and public administration."
+        " Hiring representatives or proxies, collectors or sales representatives."
+        " Benefits in dealing with newly known people."
+        " Making short journeys."
+        " Getting married."
+        " Loaning and borrowing money."
+        " Any social matters."
+        " Market investments and any other investmens of speculative nature."
+    </string>
+    <string name="B_period_nofav_detail">
+        "Hiring servants or any low category employee."
+        " Starting long journeys by sea or land to destinations far from home."
+    </string>
+
+    <string name="C_period_title">C PERIOD</string>
+    <string name="C_period_fav_detail">
+        " Art and intellectual related matters: education, scientific investigations, publications, teaching in schools and educational campaigns."
+        " Excellent time for study and analytical examinations of subjects, documents and commercial proposals."
+        " Mental activities."
+        " Buying livestock and related transactions."
+        " Entering into contracts, collect debts, making new friends, hiring employees."
+        " Starting campaigns or business promotions."
+        " Starting any illness healing treatment."
+        " Lending money."
+        " Starting the construction of buildings."
+        " Realizing new businesses."
+        " Signing of documents."
+        " Writing important letters."
+    </string>
+    <string name="C_period_nofav_detail">
+        "Dealing with public or private enemies; making them appear in court."
+        " Buying/selling real estate."
+        " Asking for favours."
+        " Spiritual growth and concentration."
+        " Surgeries."
+        " Can easily be deceived by scammers, blackmailers, etc."
+    </string>
+
+    <string name="D_period_title">D PERIOD</string>
+    <string name="D_period_fav_detail">
+        "Public related matters and businesses."
+        " Doing educational work."
+        " Planting seeds."
+        " Starting new relations."
+        " Hiring any kind of employee."
+        " Short or long journeys by sea or land."
+        " Literary or journalistic work."
+        " Dating and marriages."
+        " Any maritime matter."
+        " Starting any health treatment."
+        " Any shipment and transportation related matter."
+        " Sending goods to distant places."
+        " Surgeries."
+        " Good for salesmen, travel agents and dealing with women."
+    </string>
+    <string name="D_period_nofav_detail">
+        "Creating ideas for new businesses, or making first investment for it."
+        " Signing contracts or legal documents."
+        " Borrowing and lending money."
+        " Writing letters or requests of any kind."
+    </string>
+    <string name="E_period_title">E PERIOD</string>
+    <string name="E_period_fav_detail">
+        "Matters that require aggression, or a lot of thought followed by an active campaign of ambitious work."
+        " Put big mental plans in motion."
+        " Deal with elderly people, judges or magistrates, and people with high State or business position."
+        " Finishing any social or commercial plan."
+        " Close any proposition of real value."
+        " Literacy or journalistic work."
+        " Advertisements or promotions by mail."
+        " Starting any legal action."
+        " Move to another house."
+        " Buying, selling or transferring properties."
+        " Scientific investigations or spiritual meditation."
+    </string>
+    <string name="E_period_nofav_detail">
+         "Signing contracts or agreements."
+        " Collecting money or starting agricultural operations."
+        " Planting seeds."
+        " Making new friends."
+        " Hiring servants, vendors or employees."
+        " Making long journeys."
+        " Marriages."
+        " Healing treatments."
+        " Lending money or borrowing it."
+        " Constructing new buildings."
+        " Dealing with public employees or prominent people."
+        " Carry out speculations."
+    </string>
+
+    <string name="F_period_title">F PERIOD</string>
+    <string name="F_period_fav_detail">
+        "Starting any new businesses."
+        " Buying and selling livestock."
+        " Business speculations."
+        " Signing contacts, agreements and any kind of legal documents, collecting and money saving."
+        " Education related work."
+        " New social relations."
+        " Starting long journeys for business or pleasure."
+        " Short trips by sea or land, alternating between pleasure and business matters."
+        " Dealing with lawyers."
+        " Any legal matter."
+        " Dating and marriages, social matters, or any constructive matter."
+    </string>
+    <string name="F_period_nofav_detail">
+        "Do not overload the body or the mind."
+        " Do not exaggerate statements or become too impulsive."
+        " Hiring employees."
+        " Maritime matters."
+    </string>
+    <string name="G_period_title">G PERIOD</string>
+    <string name="G_period_fav_detail">
+        "Mastering matters that require a great amount of energy, aggression and perseverance, and great physical effort."
+        " Collecting money, hire vendors, collectors or agents."
+        " Maritime and military matters."
+        " Dealing with mechanic problems, either inventions or designs."
+        " Scientific matters."
+        " Women that try to obtain favours from high position people."
+        </string>
+    <string name="G_period_nofav_detail">
+        "Charity matters."
+        " Receiving donations or favours."
+        " Starting humanitarian activities."
+        " Buying or speculating on livestock."
+        " Dealing with enemies."
+        " Starting long journeys."
+        " Activities related to legal matters, marriages or favours."
+        " Be careful with possible accidents and stay away from dangerous places, explosives are firearms."
+        " Diseases might develop high fever."
+        " In this cases, it is recommended that the body and mind remain inactive."
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

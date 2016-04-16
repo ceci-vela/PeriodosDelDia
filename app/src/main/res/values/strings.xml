@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">Periodos del dia</string>
+    <string name="button_change_language">Ingles</string>
+    
+    <string name="day_monday">Lunes</string>
+    <string name="day_tuesday">Martes</string>
+    <string name="day_wednesday">Miercoles</string>
+    <string name="day_thursday">Jueves</string>
+    <string name="day_friday">Viernes</string>
+    <string name="day_saturday">Sabado</string>
+    <string name="day_sunday">Domingo</string>
+    
+    <string name="good_for_title">Favorable para:</string>
+    <string name="not_good_for_title">No favorable para:</string>
+
+    <string name="A_period_title">PERIODO A</string>
+    <string name="A_period_fav_detail">
+        "Obtener la cooperacion cosmica."
+        " La concentracion y el desarrollo de detalles para planes importantes."
+        " Solicitar favores a personas de alta posicion."
+        " Conseguir moratorias legales, recomendaciones y endosos."
+        " Tratar con funcionarios publicos."
+        " Firmar testamentos, escrituras o traspasos."
+        " Escribir cartas solicitando favores y promociones."
+    </string>
+    <string name="A_period_nofav_detail">
+        "Tratar con personas de dudosa o mala reputacion."
+        " Peligrosa la demasida impulsividad."
+        " Realizar un negocio nuevo."
+        " Adquisicion de ganado."
+        " Firma de tratados o convenios."
+        " Prestamos de dinero."
+        " Mudarse de localidad (casa o negocio)."
+        " Hacer la primera inversion financiera de un nuevo negocio."
+        " Comprar, arrendar o vender bienes raices."
+    </string>
+
+    <string name="B_period_title">PERIODO B</string>
+    <string name="B_period_fav_detail">
+    "Asuntos relacionados con las artes, musica, o adorno de personas o casas."
+        " Cualquier asunto material."
+        " Acometer una nueva empresa."
+        " Comprar ganado, cobranza y tratos con empresas y administracion publicas."
+        " Contratar representantes o apoderados, cobradores o vendedores."
+        " Valioso el trato con personas recientemente conocidas."
+        " Efectuar viajes cortos."
+        " Contraer nupcias."
+        " Prestar dinero y pedirlo."
+        " Todo asunto de caracter social. Inversiones de bolsa y toda inversion de caracter especulativo."
+    </string>
+    <string name="B_period_nofav_detail">
+        "Contraer sirvientes o empleados de menor categoria. "
+        " Emprender viajes largos por mar o por tierra a lugares distantes del hogar."
+    </string>
+
+    <string name="C_period_title">PERIODO C</string>
+    <string name="C_period_fav_detail">
+        "Asuntos relacionados con las bellas artes y para las cosas intelectuales: educacion, investigaciones cinetificas, publicaciones, instruccion en escuelas y colegios, y campañas educacionales."
+        " Excelente periodo para el estudio y el examen analitico de temas, documentos y proposiciones comerciales."
+        " Actividades mentales."
+        " Compra de ganado y transacciones de ese tipo."
+        " Suscribir contratos, cobrar cuentas, hacer nuevas amistades, admitir dependientes y sirvientes."
+        " Empezar campañas o promociones en los negocios."
+        " Dar principio a algun sistema de curacion de enfermedad o condicion fisica."
+        " Prestar dinero."
+        " Comenzar la construccion de edificios."
+        " Concretar nuevas empresas."
+        " Firma de papeles."
+        " Escribir cartas importantes."
+        </string>
+    <string name="C_period_nofav_detail">
+        "Tratar con enemigos publicos o privados; hacerlos comparecer ante tribunales."
+        " Compra venta de bienes raices."
+        " Solicitar favores."
+        " Concentracion y desarrollo espiritual."
+        " Operaciones quirurgicas."
+        " Facilmente se puede sufrir engaños por parte de timadores,"
+        " chantajistas, estafadores y demas."
+    </string>
+
+    <string name="D_period_title">PERIODO D</string>
+    <string name="D_period_fav_detail">
+        "Asuntos y negocios relacionados con el publico."
+        " Efectuar labor educacional."
+        " Siembra de semillas."
+        " Contraer nuevas relaciones."
+        " Contratar toda clase de trabajadores."
+        " Viajes cortos o largos por mar o tierra."
+        " Trabajos literarios o periodisticos."
+        " Noviazgos o matrimonios."
+        " Todo asunto maritimo."
+        " Comenzar algun tratamiento para la salud."
+        " Uso de la mente en relacion con curaciones."
+        " Asuntos relacionados con embarques y transportes."
+        " Envio de mercaderias a lugares distantes."
+        " Operaciones quirurgicas."
+        " Favorable a vendedores, agentes viajeros y para el trato con mujeres."
+    </string>
+    <string name="D_period_nofav_detail">
+        "Comenzar a hacer planes mentalmente para una nueva empresa, ni hacer la inversion inicial para esta."
+        " Firma de contratos o documentos legales."
+        " Solicitar dinero en prestamos."
+        " Escribir cartas o peticiones de todo tipo."
+    </string>
+    <string name="E_period_title">PERIODO E</string>
+    <string name="E_period_fav_detail">
+        "Asuntos que requieran agresividad, o una profunda consideracion seguida de una activa campaña de trabajo ambicioso."
+        " Poner en accion grandes planes mentales."
+        " Tratar con personas mayores, jueces o magistrados, y personas de alta posicion estatal o de negocios."
+        " Terminar cualquier plan social o comercial."
+        " Cerrar cualquier proposicion de real valor."
+        " Trabajos literarios o periodisticos."
+        " Anuncios o promociones por correo."
+        " Iniciar cualquier accion legal."
+        " Mudarse de casa."
+        " Comprar, vender o traspasar propiedades."
+        " Investigaciones cientificas y meditacion espiritual."
+    </string>
+    <string name="E_period_nofav_detail">
+         "Hacer contratos o convenios."
+        " Cobrar dinero o comenzar operaciones agricolas."
+        " Siembra de semillas."
+        " Adquisicion de nuevas relaciones amistosas."
+        " Contratar sirvientes, vendedores o empleados."
+        " Efectuar viajes largos."
+        " Matrimonios."
+        " Tratamientos para curaciones."
+        " Prestar dinero o pedirlo prestado."
+        " Construccion de nuevos edificios."
+        " Tratar con empleados publicos o personas prominentes."
+        " Llevar a efecto especulaciones."
+    </string>
+
+    <string name="F_period_title">PERIODO F</string>
+    <string name="F_period_fav_detail">
+        "Dar principio a cualquier empresa nueva."
+        " Compra y venta de ganado."
+        " Especulaciones de negocios."
+        " Firma de contratos, convenios y toda clase de documentos legales, cobranzas, ahorro de dinero."
+        " Trabajo educacional."
+        " Nuevas relaciones sociales."
+        " Emprender largos viajes de negocios o placer."
+        " Viajes cortos por agua o por tierra, alternando la recreacion con asuntos comerciales."
+        " Tratar con abogados."
+        " Cualquier materia de caracter legal."
+        " Noviazgos y matrimonios, asuntos sociales, o cualquier asunto constructivo."
+    </string>
+    <string name="F_period_nofav_detail">
+        "No sobrecargar la mente y el cuerpo."
+        " No exagerar afirmaciones o volverse demasiado impulsivo."
+        " Contratar sirvientes."
+        " Asuntos maritimos."
+    </string>
+    <string name="G_period_title">PERIODO G</string>
+    <string name="G_period_fav_detail">
+        "Dominar asuntos que requieren gran energia, agresividad y constancia, y gran cantidad de trabajo fisico."
+        " Cobrar dinero, contratar vendedores, conbradores o agentes."
+        " Asuntos maritimos o militares."
+        " Ocuparse de problemas mecanicos, ya sea invenciones o planos."
+        " Asuntos cientificos."
+        " Mujeres que tratan de obtener favores de personas que ocupan altos puestos."
+        </string>
+    <string name="G_period_nofav_detail">
+        "Asuntos beneficos."
+        " Recibir favores o donativos."
+        " Iniciar actividades humanitarias."
+        " Compras o especulaciones de ganado."
+        " Tratar con enemigos."
+        " Empezar largos viajes."
+        " Actividades con respecto a materias de caracter legal, asuntos matrimoniales o solicitud de favores."
+        " Cuidado con los accidentes y alejarse de lugares peligrosos y sitios donde haya explosivos o armas de fuego."
+        " Es posible que las enfermedades vayan acompañadas de fiebres altas."
+        " En estos casos se recomienda que el cuerpo y la mente queden inactivos."
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
