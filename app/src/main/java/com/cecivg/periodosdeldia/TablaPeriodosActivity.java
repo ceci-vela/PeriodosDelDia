@@ -235,5 +235,6 @@ public class TablaPeriodosActivity extends AppCompatActivity {
         Intent intent = new Intent(this, TablaPeriodosActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         startActivity(intent);
+        
     }
 }
